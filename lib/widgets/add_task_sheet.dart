@@ -12,6 +12,7 @@ class AddTaskBox extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       decoration: const BoxDecoration(
         color: Color(0xFF7E9BE7),
+        //git test
         borderRadius: BorderRadius.only(
             topLeft: Radius.circular(30), topRight: Radius.circular(30)),
       ),
